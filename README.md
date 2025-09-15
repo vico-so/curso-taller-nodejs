@@ -1,8 +1,10 @@
 # curso-taller-nodejs
-```` markdown
+
 # Ejemplos Prácticos con Node.js
 
 Este repositorio contiene ejemplos prácticos para empezar a trabajar con Node.js, cubriendo desde la instalación básica hasta la creación de APIs RESTful con conexión a bases de datos MySQL.
+
+La versión de Nodejs utilizada para los ejecicios es v22.19.0.
 
 ## Contenido
 
