@@ -1,0 +1,17 @@
+{
+  "name": "ejercio1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db_example.js",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
