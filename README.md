@@ -1,5 +1,7 @@
 # curso-taller-nodejs
 
+(Ing. Victor Hugo Quispe Chejo)
+
 # Ejemplos Prácticos con Node.js
 
 Este repositorio contiene ejemplos prácticos para empezar a trabajar con Node.js, cubriendo desde la instalación básica hasta la creación de APIs RESTful con conexión a bases de datos MySQL.
