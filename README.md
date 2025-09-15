@@ -372,6 +372,5 @@ Para crear un ejemplo de API REST con Node.js, Express y MySQL, que se conecta a
     *   **DELETE para eliminar un producto:**
         Usa Postman/Insomnia con el método `DELETE` a [http://localhost:3000/productos/ID_DEL_PRODUCTO](http://localhost:3000/productos/ID_DEL_PRODUCTO) (ej. [http://localhost:3000/productos/1](http://localhost:3000/productos/1)).
         *   Deberías recibir un mensaje de confirmación de eliminación.
-
 ````
 
